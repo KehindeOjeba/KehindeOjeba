@@ -3,8 +3,8 @@
 
  🔭 I’m currently working as a Software Developer<br/>
  🌱 I create modern and responsive applications<br/>
- 📫 How to reach me: LinkedIn(www.linkedin.com/in/kehinde-ojeba-3020b621a)<br/>
- ⚡ Fun fact: I can make footwears<br/> 
+ 📫 LinkedIn(www.linkedin.com/in/kehinde-ojeba-3020b621a)<br/>
+ ⚡ Fun fact: I can make foot-wears<br/> 
 
 
  
