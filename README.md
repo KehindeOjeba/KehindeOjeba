@@ -1,4 +1,4 @@
-## Hi, I'm Kenny 😊
+## Hello, I'm Kenny 😊
 
 
  🔭 I’m currently working as a Software Developer<br/>
