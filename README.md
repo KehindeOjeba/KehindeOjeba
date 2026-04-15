@@ -3,7 +3,13 @@
 
  
  
+🔭 I’m currently working as a Software Developer<br/>
+ 
+ 🌱 I create modern and responsive applications<br/>
+ 
+ ⚡ Fun fact:I am very creative. I can make foot-wears<br/> 
 
+ 📫 LinkedIn(www.linkedin.com/in/kehinde-ojeba-3020b621a)<br/>
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kens.ojay) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kehindeojeba.r@gmail.com) 
 
