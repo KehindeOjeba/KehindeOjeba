@@ -1,13 +1,7 @@
 ## Hello, I'm Kenny 😊
 
 
- 🔭 I’m currently working as a Software Developer<br/>
  
- 🌱 I create modern and responsive applications<br/>
- 
- ⚡ Fun fact:I am very creative. I can make foot-wears<br/> 
-
- 📫 LinkedIn(www.linkedin.com/in/kehinde-ojeba-3020b621a)<br/>
  
 
 ## 🌐 Socials:
